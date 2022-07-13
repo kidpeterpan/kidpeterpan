@@ -1,4 +1,5 @@
 ### About Me 
+I'm Pan. Who are you? :raised_back_of_hand:
 
 ### Skills
 
@@ -13,7 +14,7 @@
 ![GinFramework](https://img.shields.io/badge/GinFramework-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 
 ## Workspace Setup
-![MX Linux](https://img.shields.io/badge/MXLinux-000000?style=for-the-badge&logo=MX%20Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=white)
