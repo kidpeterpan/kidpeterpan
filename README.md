@@ -1,7 +1,7 @@
-![Dancing Gopher](./dancing-gopher.gif)
-
 ### About Me 
 I'm Pan. Who are you? :raised_back_of_hand:
+
+![Dancing Gopher](./dancing-gopher.gif)
 
 ### Skills
 
