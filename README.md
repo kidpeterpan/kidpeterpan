@@ -13,7 +13,7 @@
 ![GinFramework](https://img.shields.io/badge/GinFramework-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 
 ## Workspace Setup
-![MX Linux](https://img.shields.io/badge/MXLinux-000000?style=for-the-badge&logo=MX Linux&logoColor=white)
+![MX Linux](https://img.shields.io/badge/MXLinux-000000?style=for-the-badge&logo=MX%20Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
   
 <!--
