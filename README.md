@@ -15,6 +15,9 @@
 ## Workspace Setup
 ![MX Linux](https://img.shields.io/badge/MXLinux-000000?style=for-the-badge&logo=MX%20Linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   
 <!--
 **kidpeterpan/kidpeterpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
