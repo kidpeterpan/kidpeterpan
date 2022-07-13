@@ -11,6 +11,10 @@
 
 ## Back-End Development  
 ![GinFramework](https://img.shields.io/badge/GinFramework-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+
+## Workspace Setup
+![MX Linux](https://img.shields.io/badge/MXLinux-000000?style=for-the-badge&logo=MX Linux&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
   
 <!--
 **kidpeterpan/kidpeterpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
