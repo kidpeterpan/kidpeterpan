@@ -18,6 +18,16 @@
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kidpeterpan&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=kidpeterpan&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kidpeterpan.kidpeterpan" alt="visitors">
+</div>
   
 <!--
 **kidpeterpan/kidpeterpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
