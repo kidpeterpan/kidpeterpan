@@ -10,7 +10,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)  
 
 ## Back-End Development  
-![GinFramework](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=GinFramework&logoColor=white)
+![GinFramework](https://img.shields.io/badge/GinFramework-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
   
 <!--
 **kidpeterpan/kidpeterpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
