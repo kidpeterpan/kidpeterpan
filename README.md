@@ -11,6 +11,7 @@ I'm Pan. Who are you? :raised_back_of_hand:
 
 ## Front-End Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-8B0000?style=for-the-badge&logo=Jest&logoColor=white)  
 
 ## Back-End Development  
 ![GinFramework](https://img.shields.io/badge/GinFramework-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
