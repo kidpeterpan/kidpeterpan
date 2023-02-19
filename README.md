@@ -4,6 +4,7 @@ I'm Pan. Who are you? :raised_back_of_hand:
 ![Dancing Gopher](./dancing-gopher.gif)
 
 ### Skills
+![Codewars](https://www.codewars.com/users/kidpeterpan/badges/large)
 
 ## Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
