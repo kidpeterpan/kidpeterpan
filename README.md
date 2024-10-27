@@ -1,52 +1,57 @@
-### About Me 
-I'm Pan. Who are you? :raised_back_of_hand:
+<div align="center">
+  <h1>Hi there! I'm Pan 👋</h1>
+  <p>A passionate software developer from Thailand 🇹🇭</p>
+  
+  ![Dancing Gopher](./dancing-gopher.gif)
+</div>
 
-![Dancing Gopher](./dancing-gopher.gif)
+## 🛠️ Tech Stack
 
-### Skills
-![Codewars](https://www.codewars.com/users/kidpeterpan/badges/large)
-
-## Programming Languages
+### Programming Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-## Front-End Development
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)  
-![Jest](https://img.shields.io/badge/Jest-8B0000?style=for-the-badge&logo=Jest&logoColor=white)  
+### Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-8B0000?style=for-the-badge&logo=Jest&logoColor=white)
 
-## Back-End Development  
-![GinFramework](https://img.shields.io/badge/GinFramework-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+### Backend Development
+![GinFramework](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white) & gRPC
 
-## Workspace Setup
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+### Development Tools & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=GoLand&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-## 📈 Stats
+## 🏆 Achievements
+![Codewars](https://www.codewars.com/users/kidpeterpan/badges/large)
+
+## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kidpeterpan&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=kidpeterpan&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kidpeterpan.kidpeterpan" alt="visitors">
+  <img src="https://github-profile-trophy.vercel.app/?username=kidpeterpan&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=kidpeterpan&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidpeterpan&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-  
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kidpeterpan)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kidpeterpan.kidpeterpan" alt="visitors" />
+</div>
+
 <!--
-**kidpeterpan/kidpeterpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
+- Advanced Go patterns and microservices architecture
+- System Design and scalability
+- Some of React Native
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Badge: https://simpleicons.org/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+Badge references: https://simpleicons.org/
 -->
